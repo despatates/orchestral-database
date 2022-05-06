@@ -1,5 +1,5 @@
 {
-    "name": "orchestra/database",
+    "name": "despatates/orchestral-database",
     "description": "Database Component for Orchestra Platform",
     "keywords": ["orchestra-platform", "orchestral", "database"],
     "license": "MIT",
@@ -25,7 +25,7 @@
         "illuminate/contracts": "^9.0",
         "illuminate/database": "^9.0",
         "illuminate/support": "^9.0",
-        "laravie/query-filter": "dev-master"
+        "laravie/query-filter": "^3.2"
     },
     "suggest": {
         "laravie/query-filter": "Allow to use whereLike query builder macros with Laravel (dev-master)."
